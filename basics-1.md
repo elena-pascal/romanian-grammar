@@ -54,7 +54,7 @@ for a more exhaustive explanation.
 
 Although *Â* and *Î* sound precisely the same, Romanian use of both letters
 stems from etymology. So, by using a simple rule to swap between the two,
-Romanian has been able to retain some similarity with Latin, where most
+Romanian has been able to reinforce some similarity with Latin, where most
 etymons use *A* instead of *Â* and *I* instead of *Î*.
 
 The rule between them is that *Î* is only used at the start and end of a word.
@@ -66,12 +66,14 @@ In the middle, you would use *Â*.
 * neînfricat (fearless) - here we use *î* because the word stems from *înfricat*
 with the preposition *ne*
 
-### Eu, ea, e, este
+### Eu, ea, e, este, sunt, suntem
 
 Although Romanian has exceptionally few pronunciation exception, there is one
 which is noticeable from the very beginning. *Eu* (I/me), *el* (he/him), *ea*
 (she/her), *ei* (they/them masc.), *ele* (they/them fem.), *e* (is), and *este*
-(is) are all pronounced starting with /ie/ instead of simply /e/.
+(is) are all pronounced starting with /ie/ instead of simply /e/. Aditionally, 
+a relativelly recent language reform resulted in *sunt* and *suntem* still being
+pronounced according to the old spelling *sînt* and *sîntem*, respectivelly.
 
 ### Personal pronouns
 
